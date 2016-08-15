@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.socialnmobile.colornote.view.ScreenCalendar android:id="0x7f0e006a" android:background="#ffe0e0e0" android:padding="0x7f0a0006" android:layout_width="-1" android:layout_height="-1" android:hapticFeedbackEnabled="false">
+    <LinearLayout android:orientation="1" android:id="0x7f0e00c0" android:layout_width="-1" android:layout_height="-1">
+        <com.socialnmobile.colornote.view.MonthView android:id="0x7f0e00c1" android:layout_width="-1" android:layout_height="-1" />
+    </LinearLayout>
+</com.socialnmobile.colornote.view.ScreenCalendar>

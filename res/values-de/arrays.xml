@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_reminder_type">
+        <item>Keiner</item>
+        <item>Ganztägig</item>
+        <item>bestimmte Uhrzeit</item>
+        <item>An Statusbar anpinnen</item>
+    </string-array>
+    <string-array name="cal_reminder_type">
+        <item>Datum</item>
+        <item>Zeit</item>
+    </string-array>
+    <string-array name="first_day_of_week_entries">
+        <item>Sonntag</item>
+        <item>Montag</item>
+        <item>Samstag</item>
+    </string-array>
+    <string-array name="lunar_calendar_entries">
+        <item>aus</item>
+        <item>Korea</item>
+        <item>China</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>erster</item>
+        <item>zweiter</item>
+        <item>dritter</item>
+        <item>vierter</item>
+        <item>letzter</item>
+    </string-array>
+    <string-array name="reminder_list_string">
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>20 Minuten</item>
+        <item>25 Minuten</item>
+        <item>30 Minuten</item>
+        <item>45 Minuten</item>
+        <item>1 Stunde</item>
+        <item>2 Stunden</item>
+        <item>3 Stunden</item>
+        <item>6 Stunden</item>
+        <item>12 Stunden</item>
+        <item>24 Stunden</item>
+    </string-array>
+    <string-array name="default_font_size_entries">
+        <item>Winzig</item>
+        <item>Klein</item>
+        <item>Mittel</item>
+        <item>Groß</item>
+        <item>Riesig</item>
+    </string-array>
+    <string-array name="default_list_item_height_entries">
+        <item>Normal</item>
+        <item>Klein</item>
+        <item>Winzig</item>
+    </string-array>
+</resources>

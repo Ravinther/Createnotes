@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NoTitle.Dark" parent="@android:style/Theme.Holo">
+        <item name="android:windowBackground">@drawable/screen_background_gray</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:textCursorDrawable">@drawable/text_cursor_holo_dark</item>
+        <item name="popupMenuStyle">@style/Widget.PopupMenu.Dark</item>
+        <item name="dropDownListViewStyle">@style/Widget.Note.ListView.DropDown.Dark</item>
+    </style>
+    <style name="Theme.NoTitle.Light" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@drawable/screen_background_gray</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:textCursorDrawable">@drawable/text_cursor_holo_light</item>
+        <item name="popupMenuStyle">@style/Widget.PopupMenu.Light</item>
+        <item name="dropDownListViewStyle">@style/Widget.Note.ListView.DropDown.Light</item>
+    </style>
+</resources>

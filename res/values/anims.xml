@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="anim" name="layout_animation_row_right_slide">false</item>
+    <item type="anim" name="push_up_out">false</item>
+    <item type="anim" name="slide_left_in">false</item>
+    <item type="anim" name="slide_left_out">false</item>
+    <item type="anim" name="slide_right">false</item>
+    <item type="anim" name="slide_right_in">false</item>
+    <item type="anim" name="slide_right_out">false</item>
+</resources>

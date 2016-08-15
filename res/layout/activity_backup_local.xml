@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:paddingTop="10dp" android:layout_width="-1" android:layout_height="-1">
+    <Button android:textSize="0x7f0a0010" android:id="0x7f0e0002" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:layout_marginBottom="5dp" android:text="0x7f080135" />
+    <TextView android:layout_width="-1" android:layout_height="-2" android:text="0x7f0800f7" style="?unknown_attr_ref: 1010208" />
+    <ListView android:id="0x7f0e0003" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+</LinearLayout>

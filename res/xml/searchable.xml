@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable android:label="0x7f08014f" android:searchSuggestAuthority="note.socialnmobile.provider.colornote" android:searchSuggestIntentAction="android.intent.action.VIEW" android:voiceSearchMode="5" android:voiceLanguageModel="free_form" android:includeInGlobalSearch="true" android:searchSettingsDescription="0x7f08000d" />

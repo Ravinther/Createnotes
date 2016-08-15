@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_show_lunar_date">false</bool>
+    <bool name="config_auto_sort_by_status">false</bool>
+    <bool name="config_autolink_wiki_word">false</bool>
+    <bool name="config_edit_title">true</bool>
+    <bool name="config_enable_auto_backup">true</bool>
+    <bool name="config_gpu_rendering">true</bool>
+    <bool name="config_list_item_drag">true</bool>
+    <bool name="config_secured_auto_backup">false</bool>
+    <bool name="config_show_all_day_reminder">true</bool>
+    <bool name="config_show_item_count_on_widget">true</bool>
+    <bool name="config_sync_on_launch">false</bool>
+    <bool name="config_use_auto_select">true</bool>
+    <bool name="config_use_colordict">false</bool>
+    <bool name="config_use_note_link">true</bool>
+</resources>

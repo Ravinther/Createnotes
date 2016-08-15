@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:id="0x7f0e006c" android:focusable="true" android:focusableInTouchMode="true" android:descendantFocusability="2" android:layout_width="-1" android:layout_height="0x7f0a0025">
+    <com.socialnmobile.colornote.view.MyImageButton android:id="0x7f0e0084" android:background="0x7f02001b" android:visibility="2" android:layout_width="0x7f0a0014" android:layout_height="-1" android:src="0x7f02003d" android:scaleType="5" />
+    <View android:id="0x7f0e0085" android:visibility="2" android:layout_width="4dp" android:layout_height="-1" android:layout_marginTop="4dp" android:layout_marginBottom="4dp" />
+    <EditText android:textSize="22sp" android:ellipsize="3" android:id="0x7f0e0086" android:background="0x7f020005" android:paddingLeft="4dp" android:paddingRight="6dp" android:fadingEdge="1000" android:layout_width="0dp" android:layout_height="-1" android:layout_marginLeft="0dp" android:layout_marginTop="4dp" android:layout_marginBottom="4dp" android:singleLine="true" android:maxLength="50" android:drawablePadding="2dp" android:layout_weight="1.0" android:inputType="4001" />
+    <com.socialnmobile.colornote.view.MyImageButton android:id="0x7f0e0087" android:background="0x7f02001b" android:visibility="2" android:layout_width="0x7f0a0014" android:layout_height="-1" android:scaleType="5" />
+    <com.socialnmobile.colornote.view.MyImageButton android:id="0x7f0e0088" android:background="0x7f02001b" android:layout_width="0x7f0a0014" android:layout_height="-1" android:src="0x7f020040" android:scaleType="5" />
+    <com.socialnmobile.colornote.view.MyImageButton android:id="0x7f0e0089" android:background="0x7f02001b" android:layout_width="0x7f0a0014" android:layout_height="-1" android:src="0x7f020041" android:scaleType="5" />
+</LinearLayout>

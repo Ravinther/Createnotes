@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="0x7f0e0010" android:layout_width="320dp" android:layout_height="-2"
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:baselineAligned="false">
+        <Button android:textSize="0x7f0a0011" android:textColor="#ff000000" android:gravity="13" android:id="0x7f0e0063" android:layout_width="0px" android:layout_height="-2" android:minLines="2" android:layout_weight="7.1" />
+        <Button android:textSize="0x7f0a0011" android:textColor="#ff000000" android:gravity="13" android:id="0x7f0e0064" android:layout_width="0px" android:layout_height="-2" android:minLines="2" android:layout_weight="4.0" />
+    </LinearLayout>
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:layout_marginBottom="5dp" android:baselineAligned="false">
+        <Button android:textSize="0x7f0a0011" android:textColor="#ff000000" android:gravity="13" android:id="0x7f0e0065" android:layout_width="0px" android:layout_height="-2" android:minLines="2" android:layout_weight="7.1" />
+        <CheckBox android:textSize="0x7f0a0011" android:layout_gravity="10" android:id="0x7f0e0066" android:layout_width="0px" android:layout_height="-2" android:text="0x7f08000a" android:layout_weight="4.0" />
+    </LinearLayout>
+</LinearLayout>

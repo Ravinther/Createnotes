@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="0x7f0e0017" android:background="#40888888" android:clickable="true" android:layout_width="-1" android:layout_height="-1"
+    <RelativeLayout android:id="0x7f0e0000" android:layout_width="-1" android:layout_height="0x7f0a0025">
+        <ImageButton android:id="0x7f0e0073" android:background="0x7f02001b" android:layout_width="56dp" android:layout_height="-1" android:src="0x7f02002c" android:scaleType="5" android:layout_alignParentRight="true" />
+        <LinearLayout android:orientation="0" android:id="0x7f0e0074" android:background="0x7f02001b" android:clickable="true" android:layout_width="-1" android:layout_height="-1" android:layout_toLeftOf="0x7f0e0073">
+            <ImageView android:id="0x7f0e0075" android:padding="8dp" android:layout_width="48dp" android:layout_height="-1" android:src="0x7f0200bb" android:scaleType="5" android:layout_alignParentLeft="true" />
+            <TextView android:textSize="18dp" android:textColor="#ffffffff" android:gravity="10" android:id="0x7f0e0040" android:layout_width="0dp" android:layout_height="-1" android:text="" android:singleLine="true" android:layout_weight="1.0" />
+        </LinearLayout>
+        <View android:id="0x7f0e005c" android:background="#ff505050" android:layout_width="-1" android:layout_height="0x7f0a0026" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <ListView android:id="0x7f0e0003" android:background="#ffe0e0e0" android:layout_width="-1" android:layout_height="-1" android:cacheColorHint="#00000000" android:divider="0x7f020033" android:layout_below="0x7f0e0000" android:overScrollFooter="0x0" />
+</RelativeLayout>

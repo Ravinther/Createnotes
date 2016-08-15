@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="0x7f0e0017" android:padding="10dp" android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:background="#ffffffff" android:layout_width="-1" android:layout_height="-1" android:layout_below="0x7f0e0000">
+        <FrameLayout android:id="0x7f0e0001" android:layout_width="-1" android:layout_height="-1" />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Normal" parent="@android:style/Theme.Holo" />
+    <style name="Theme.Holo.NoTitle.Dark" parent="@style/Theme.Holo.NoTitle.DarkBase">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.Holo.NoTitle.Light" parent="@style/Theme.Holo.NoTitle.LightBase">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

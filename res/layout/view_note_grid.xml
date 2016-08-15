@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:background="0x7f020008" android:layout_width="100dp" android:layout_height="100dp">
+    <View android:id="0x7f0e009b" android:layout_width="-1" android:layout_height="0x7f0a0002" />
+    <LinearLayout android:orientation="0" android:id="0x7f0e008b" android:layout_width="-1" android:layout_height="0x7f0a0003" android:layout_below="0x7f0e009b">
+        <TextView android:textSize="0x7f0a0005" android:textStyle="1" android:textColor="#ff000000" android:ellipsize="0" android:gravity="10" android:id="0x7f0e00a0" android:paddingLeft="3dp" android:paddingRight="0dp" android:fadingEdge="1000" android:layout_width="0dp" android:layout_height="-1" android:singleLine="true" android:layout_weight="1.0" />
+        <ImageView android:layout_gravity="10" android:id="0x7f0e00b0" android:layout_width="24dp" android:layout_height="24dp" android:scaleType="5" />
+        <View android:id="0x7f0e00b1" android:visibility="2" android:layout_width="4dp" android:layout_height="-1" />
+    </LinearLayout>
+    <RelativeLayout android:id="0x7f0e00b2" android:layout_width="-1" android:layout_height="75dp" android:layout_below="0x7f0e008b">
+        <TextView android:textSize="0x7f0a0004" android:textColor="#ff000000" android:ellipsize="3" android:gravity="30" android:id="0x7f0e00b3" android:paddingLeft="3dp" android:paddingTop="0dp" android:paddingRight="3dp" android:paddingBottom="3dp" android:layout_width="-1" android:layout_height="-1" />
+    </RelativeLayout>
+    <ImageView android:id="0x7f0e0082" android:layout_width="25dp" android:layout_height="25dp" android:src="0x7f0200b4" android:scaleType="5" android:layout_centerInParent="true" />
+</RelativeLayout>

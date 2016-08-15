@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_reminder_type">
+        <item>None</item>
+        <item>طوال اليوم</item>
+        <item>المنبه</item>
+        <item>التثبيت في شريط الحالة</item>
+    </string-array>
+    <string-array name="cal_reminder_type">
+        <item>التاريخ</item>
+        <item>الوقت</item>
+    </string-array>
+    <string-array name="first_day_of_week_entries">
+        <item>الأحد</item>
+        <item>الأثنين</item>
+        <item>السبت</item>
+    </string-array>
+    <string-array name="lunar_calendar_entries">
+        <item>OFF</item>
+        <item>كوريا</item>
+        <item>الصين</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>أولاً</item>
+        <item>ثانيًا</item>
+        <item>ثالثًا</item>
+        <item>رابعًا</item>
+        <item>الأخير</item>
+    </string-array>
+    <string-array name="reminder_list_string">
+        <item>5 دقائق</item>
+        <item>10 دقائق</item>
+        <item>15 دقيقة</item>
+        <item>20 دقيقة</item>
+        <item>25 دقيقة</item>
+        <item>30 دقيقة</item>
+        <item>45 دقيقة</item>
+        <item>ساعة واحدة</item>
+        <item>ساعتين</item>
+        <item>3 ساعات</item>
+        <item>6 ساعات</item>
+        <item>12 ساعة</item>
+        <item>24 ساعة</item>
+    </string-array>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="-1" android:layout_height="-1" android:fillViewport="true">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textColor="#ffffffff" android:id="0x7f0e0036" android:background="#33ffffff" android:padding="10dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginTop="10dp" android:layout_marginRight="10dp" />
+        <TextView android:id="0x7f0e003f" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="10dp" android:text="0x7f080127" android:drawablePadding="4dp" />
+        <TextView android:textSize="26dp" android:gravity="11" android:id="0x7f0e0040" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:layout_marginBottom="10dp" android:singleLine="true" />
+        <TextView android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="10dp" android:text="0x7f080058" />
+        <TextView android:textSize="24dp" android:gravity="11" android:id="0x7f0e0045" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:layout_marginBottom="10dp" android:singleLine="true" />
+        <TextView android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="10dp" android:text="0x7f080117" />
+        <TextView android:textSize="24dp" android:gravity="11" android:id="0x7f0e0046" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:layout_marginBottom="10dp" android:singleLine="true" />
+        <View android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+        <LinearLayout android:orientation="0" android:background="0x7f020013" android:paddingLeft="4dp" android:paddingTop="5dp" android:paddingRight="4dp" android:paddingBottom="1dp" android:layout_width="-1" android:layout_height="-2">
+            <Button android:id="0x7f0e0047" android:layout_width="-1" android:layout_height="-2" android:text="0x7f080116" style="@*style/Widget.Button" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

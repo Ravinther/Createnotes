@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notes_reminder_count">
+        <item quantity="other">今日のノート%d個</item>
+        <item quantity="one">今日のノート一つ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider android:minWidth="110dp" android:minHeight="110dp" android:updatePeriodMillis="86400000" android:initialLayout="0x7f03003d" android:configure="com.socialnmobile.colornote.activity.NoteWidgetConfigure" android:resizeMode="3" android:widgetCategory="3" />

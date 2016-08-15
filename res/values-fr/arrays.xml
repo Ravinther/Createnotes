@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_reminder_type">
+        <item>Aucun</item>
+        <item>Toute la journée</item>
+        <item>Alarme programmable</item>
+        <item>Épingler sur la barre de statut</item>
+    </string-array>
+    <string-array name="cal_reminder_type">
+        <item>Date</item>
+        <item>Heure</item>
+    </string-array>
+    <string-array name="first_day_of_week_entries">
+        <item>dimanche</item>
+        <item>lundi</item>
+        <item>samedi</item>
+    </string-array>
+    <string-array name="lunar_calendar_entries">
+        <item>Stop</item>
+        <item>Corée</item>
+        <item>Chine</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>premier</item>
+        <item>deuxième</item>
+        <item>troisième</item>
+        <item>quatrième</item>
+        <item>dernier</item>
+    </string-array>
+    <string-array name="reminder_list_string">
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>20 minutes</item>
+        <item>25 minutes</item>
+        <item>30 minutes</item>
+        <item>45 minutes</item>
+        <item>1 heure</item>
+        <item>2 heures</item>
+        <item>3 heures</item>
+        <item>6 heures</item>
+        <item>12 heures</item>
+        <item>24 heures</item>
+    </string-array>
+    <string-array name="default_font_size_entries">
+        <item>Très petit</item>
+        <item>Petit</item>
+        <item>Moyen</item>
+        <item>Grand</item>
+        <item>Géant</item>
+    </string-array>
+    <string-array name="default_list_item_height_entries">
+        <item>Normal</item>
+        <item>Petit</item>
+        <item>Très petit</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.socialnmobile.colornote.view.NoChildFocusRelativeLayout android:background="0x7f020008" android:layout_width="-1" android:layout_height="-2">
+    <View android:id="0x7f0e009b" android:layout_width="0x7f0a0008" android:layout_height="0x7f0a001e" android:layout_alignParentLeft="true" />
+    <LinearLayout android:orientation="1" android:id="0x7f0e00b4" android:layout_width="-1" android:layout_height="0x7f0a001e" android:layout_toRightOf="0x7f0e009b"
+        <LinearLayout android:orientation="0" android:id="0x7f0e00b8" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="2dp">
+            <TextView android:textSize="0x7f0a001f" android:textStyle="1" android:ellipsize="3" android:gravity="10" android:id="0x7f0e00a0" android:paddingRight="2dp" android:fadingEdge="1000" android:layout_width="0dp" android:layout_height="24dp" android:layout_marginLeft="4dp" android:singleLine="true" android:drawablePadding="4dp" android:layout_weight="1.0" />
+            <ImageView android:layout_gravity="10" android:id="0x7f0e0081" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="2dp" android:src="0x7f02007b" android:scaleType="5" />
+            <ImageView android:layout_gravity="10" android:id="0x7f0e00b0" android:layout_width="24dp" android:layout_height="24dp" android:layout_marginLeft="2dp" android:layout_marginRight="2dp" android:scaleType="5" />
+        </LinearLayout>
+        <TextView android:textSize="0x7f0a001d" android:ellipsize="3" android:gravity="10" android:id="0x7f0e00a8" android:paddingRight="2dp" android:fadingEdge="1000" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="4dp" android:layout_marginTop="2dp" android:maxLines="2" android:lines="2" android:drawablePadding="4dp" android:layout_toRightOf="0x7f0e009b" />
+        <TextView android:textSize="0x7f0a0018" android:textColor="#ff777777" android:ellipsize="3" android:gravity="10" android:id="0x7f0e00b5" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="4dp" android:layout_marginTop="2dp" android:layout_marginRight="2dp" />
+    </LinearLayout>
+</com.socialnmobile.colornote.view.NoChildFocusRelativeLayout>

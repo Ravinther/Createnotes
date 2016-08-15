@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="bg_bottom_bar">false</item>
+    <item type="drawable" name="bg_color_label">false</item>
+    <item type="drawable" name="bg_count_normal">false</item>
+    <item type="drawable" name="bg_widget_search">false</item>
+    <item type="drawable" name="btn_color_selector_bar">false</item>
+    <item type="drawable" name="divider_gray">false</item>
+    <item type="drawable" name="screen_background_gray">#ff888888</item>
+</resources>

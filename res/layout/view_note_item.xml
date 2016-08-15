@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.socialnmobile.colornote.view.NoChildFocusRelativeLayout android:background="0x7f020008" android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:orientation="0" android:id="0x7f0e00b4" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:orientation="0" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="240.0">
+            <View android:id="0x7f0e009b" android:layout_width="0x7f0a0008" android:layout_height="-1" />
+            <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:textColor="#ff000000" android:ellipsize="3" android:gravity="10" android:id="0x7f0e00a0" android:paddingRight="2dp" android:fadingEdge="1000" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="4dp" android:singleLine="true" android:drawablePadding="4dp" android:layout_weight="1.0" />
+            <ImageView android:layout_gravity="10" android:id="0x7f0e0081" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="2dp" android:src="0x7f02007b" android:scaleType="5" />
+            <ImageView android:layout_gravity="10" android:id="0x7f0e00b0" android:layout_width="24dp" android:layout_height="24dp" android:layout_marginLeft="2dp" android:scaleType="5" />
+        </LinearLayout>
+        <TextView android:textSize="0x7f0a0009" android:textColor="#ff777777" android:ellipsize="3" android:gravity="10" android:id="0x7f0e00b5" android:layout_width="0x7f0a000a" android:layout_height="-1" android:layout_marginLeft="2dp" android:layout_marginRight="2dp" />
+        <View android:id="0x7f0e00b6" android:background="#33000000" android:visibility="2" android:layout_width="1px" android:layout_height="-1" android:layout_marginTop="6dp" android:layout_marginBottom="6dp" />
+        <ImageButton android:gravity="11" android:id="0x7f0e00b7" android:background="0x7f02001b" android:visibility="2" android:layout_width="64dp" android:layout_height="-1" android:scaleType="5" />
+    </LinearLayout>
+</com.socialnmobile.colornote.view.NoChildFocusRelativeLayout>

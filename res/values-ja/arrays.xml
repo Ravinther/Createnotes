@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_reminder_type">
+        <item>なし</item>
+        <item>終日</item>
+        <item>リマインダー時間を設定</item>
+        <item>ステータスバーに設定</item>
+    </string-array>
+    <string-array name="cal_reminder_type">
+        <item>日付</item>
+        <item>時間</item>
+    </string-array>
+    <string-array name="first_day_of_week_entries">
+        <item>日曜日</item>
+        <item>月曜日</item>
+        <item>土曜日</item>
+    </string-array>
+    <string-array name="lunar_calendar_entries">
+        <item>OFF</item>
+        <item>韓国</item>
+        <item>中国</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>第一週</item>
+        <item>第二週</item>
+        <item>第三週</item>
+        <item>第四週</item>
+        <item>最後の週</item>
+    </string-array>
+    <string-array name="reminder_list_string">
+        <item>5分</item>
+        <item>10分</item>
+        <item>15分</item>
+        <item>20分</item>
+        <item>25分</item>
+        <item>30分</item>
+        <item>45分</item>
+        <item>1時間</item>
+        <item>2時間</item>
+        <item>3時間</item>
+        <item>6時間</item>
+        <item>12時間</item>
+        <item>24時間</item>
+    </string-array>
+    <string-array name="default_font_size_entries">
+        <item>小さい</item>
+        <item>やや小さい</item>
+        <item>普通</item>
+        <item>やや大きい</item>
+        <item>大きい</item>
+    </string-array>
+    <string-array name="default_list_item_height_entries">
+        <item>普通</item>
+        <item>やや小さい</item>
+        <item>小さい</item>
+    </string-array>
+</resources>

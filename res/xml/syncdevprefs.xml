@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <CheckBoxPreference android:title="Override with following values" android:key="sync.server_resolver_factory_impl.override" />
+    <EditTextPreference android:title="Appspot ID" android:key="sync.server_resolver_factory_impl.appspot_id" android:dependency="sync.server_resolver_factory_impl.override" />
+    <EditTextPreference android:title="Alternate Frontend" android:key="sync.server_resolver_factory_impl.alt_server" android:dependency="sync.server_resolver_factory_impl.override" />
+    <EditTextPreference android:title="Development Server" android:key="sync.server_resolver_factory_impl.dev_server" android:dependency="sync.server_resolver_factory_impl.override" />
+    <CheckBoxPreference android:title="Use plain HTTP (insecure)" android:key="sync.server_resolver_factory_impl.insecure" android:dependency="sync.server_resolver_factory_impl.override" />
+</PreferenceScreen>

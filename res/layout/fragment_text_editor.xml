@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:id="0x7f0e0017" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="0" android:id="0x7f0e0076" android:background="0x7f020009" android:paddingLeft="2dp" android:paddingTop="4dp" android:paddingBottom="4dp" android:focusable="true" android:visibility="2" android:descendantFocusability="1" android:layout_width="-1" android:layout_height="-2">
+        <EditText android:textSize="22sp" android:textColor="#ff000000" android:ellipsize="3" android:id="0x7f0e0077" android:background="0x7f0200ae" android:paddingLeft="8dp" android:paddingRight="6dp" android:layout_width="0dp" android:layout_height="-2" android:singleLine="true" android:drawablePadding="2dp" android:layout_weight="1.0" android:inputType="10001" android:imeOptions="10000003" />
+        <ImageButton android:id="0x7f0e0078" android:background="0x7f02001b" android:layout_width="0x7f0a0014" android:layout_height="-1" android:src="0x7f020044" />
+        <View android:background="#66444444" android:layout_width="1px" android:layout_height="-1" />
+        <ImageButton android:id="0x7f0e0079" android:background="0x7f02001b" android:layout_width="0x7f0a0014" android:layout_height="-1" android:src="0x7f02003f" />
+        <ImageButton android:id="0x7f0e007a" android:background="0x7f02001b" android:layout_width="0x7f0a0014" android:layout_height="-1" android:src="0x7f020045" />
+    </LinearLayout>
+    <com.socialnmobile.colornote.view.EditorScrollView android:layout_width="-1" android:layout_height="-1" android:fillViewport="true" android:layout_below="0x7f0e0076">
+        <LinearLayout android:orientation="1" android:id="0x7f0e006b" android:layout_width="-1" android:layout_height="-1">
+            <include android:id="0x7f0e006c" layout="0x7f03001f" />
+            <include android:id="0x7f0e006d" android:visibility="2" layout="0x7f03001d" />
+            <include android:id="0x7f0e006e" layout="0x7f03001e" />
+            <com.socialnmobile.colornote.view.LinedEditText android:gravity="30" android:id="0x7f0e007b" android:background="0x0" android:padding="5dp" android:visibility="2" android:scrollbars="200" android:fadingEdge="2000" android:layout_width="-1" android:layout_height="-1" android:maxLength="150000" android:inputType="24001" />
+            <com.socialnmobile.colornote.view.LinedTextView android:textAppearance="?unknown_attr_ref: 1010044" android:gravity="30" android:id="0x7f0e007c" android:background="0x0" android:padding="5dp" android:scrollbars="200" android:fadingEdge="2000" android:layout_width="-1" android:layout_height="-1" android:maxLength="150000" />
+        </LinearLayout>
+    </com.socialnmobile.colornote.view.EditorScrollView>
+    <ListView android:id="0x7f0e007d" android:background="#bb000000" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:scrollingCache="false" android:layout_below="0x7f0e0076" />
+    <TextView android:textSize="36sp" android:textColor="#ff000000" android:gravity="11" android:id="0x7f0e0071" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:text="0x7f080024" />
+</RelativeLayout>

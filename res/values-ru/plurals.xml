@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notes_reminder_count">
+        <item quantity="other">%d заметок на день</item>
+        <item quantity="one">%d заметка на день</item>
+    </plurals>
+</resources>

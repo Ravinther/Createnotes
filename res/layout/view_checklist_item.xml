@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.socialnmobile.colornote.view.NoChildFocusRelativeLayout android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:baselineAligned="false">
+        <RelativeLayout android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+            <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:textColor="#ff000000" android:gravity="10" android:id="0x7f0e005f" android:paddingLeft="8dp" android:layout_width="-1" android:layout_height="-2" />
+            <ImageButton android:id="0x7f0e00ad" android:background="#00000000" android:paddingLeft="28dp" android:paddingRight="8dp" android:layout_width="-2" android:layout_height="40dp" android:src="0x7f02005f" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <View android:id="0x7f0e005c" android:layout_width="1px" android:layout_height="-1" android:layout_marginTop="6dp" android:layout_marginBottom="6dp" />
+        <ImageButton android:gravity="11" android:id="0x7f0e00ae" android:background="0x7f02001b" android:layout_width="66dp" android:layout_height="-1" android:button="0x7f02008b" />
+    </LinearLayout>
+    <ImageButton android:id="0x7f0e00af" android:background="#00000000" android:paddingLeft="28dp" android:paddingRight="8dp" android:layout_width="-2" android:layout_height="40dp" android:src="0x7f02005f" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+</com.socialnmobile.colornote.view.NoChildFocusRelativeLayout>

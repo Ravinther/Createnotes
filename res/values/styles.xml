@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NoTitle.Dark" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@drawable/screen_background_gray</item>
+        <item name="popupMenuStyle">@style/Widget.PopupMenu.Dark</item>
+        <item name="dropDownListViewStyle">@style/Widget.Note.ListView.DropDown.Dark</item>
+        <item name="listItemTextColorUnderV11">#ff000000</item>
+    </style>
+    <style name="Theme.NoTitle.Light" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@drawable/screen_background_gray</item>
+        <item name="popupMenuStyle">@style/Widget.PopupMenu.Light</item>
+        <item name="dropDownListViewStyle">@style/Widget.Note.ListView.DropDown.Light</item>
+        <item name="listItemTextColorUnderV11">#ff000000</item>
+    </style>
+    <style name="Theme.Normal" parent="@android:style/Theme" />
+    <style name="Theme.OptionDialog.Dark" parent="@android:style/Theme.Dialog">
+        <item name="android:textColorPrimary">#ffffffff</item>
+        <item name="android:windowBackground">@drawable/menu_dropdown_panel_holo_dark</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="listItemTextColorUnderV11">#ffffffff</item>
+    </style>
+    <style name="Theme.OptionDialog.Light" parent="@android:style/Theme.Dialog">
+        <item name="android:textColorPrimary">#ff000000</item>
+        <item name="android:windowBackground">@drawable/menu_dropdown_panel_holo_light</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="listItemTextColorUnderV11">#ff000000</item>
+    </style>
+    <style name="Theme.Trans.NoTitle.Dark" parent="@android:style/Theme.Light.Panel">
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="listItemTextColorUnderV11">#ff000000</item>
+    </style>
+    <style name="Theme.Trans.NoTitle.Light" parent="@android:style/Theme.Light.Panel">
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="listItemTextColorUnderV11">#ff000000</item>
+    </style>
+    <style name="Theme.Holo.NoTitle.Dark" parent="@android:style/Theme.Light.NoTitleBar" />
+    <style name="Theme.Holo.NoTitle.Light" parent="@android:style/Theme.Light.NoTitleBar" />
+    <style name="Theme.Holo.Trans.NoTitle.Dark" parent="@android:style/Theme.Light.Panel" />
+    <style name="Theme.Holo.Trans.NoTitle.Light" parent="@android:style/Theme.Light.Panel" />
+    <style name="EditEvent_Layout">
+        <item name="android:paddingLeft">6.0dip</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingRight">7.0dip</item>
+    </style>
+    <style name="ListSeparator">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@drawable/dark_header</item>
+        <item name="android:paddingLeft">5.0sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">25.0dip</item>
+    </style>
+    <style name="TextAppearance" parent="@android:style/TextAppearance" />
+    <style name="TextAppearance.EditEvent_Label" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:paddingLeft">2.0dip</item>
+    </style>
+    <style name="TextAppearance.EventInfo_Label" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:paddingLeft">2.0dip</item>
+    </style>
+    <style name="Widget" />
+    <style name="Widget.Note.ListView.DropDown.Dark" parent="@android:style/Widget.ListView">
+        <item name="android:listSelector">@drawable/btn_transparent</item>
+        <item name="android:divider">@drawable/list_divider_holo_light</item>
+    </style>
+    <style name="Widget.Note.ListView.DropDown.Light" parent="@android:style/Widget.ListView">
+        <item name="android:listSelector">@drawable/btn_transparent</item>
+        <item name="android:divider">@drawable/list_divider_holo_light</item>
+    </style>
+    <style name="Widget.PopupMenu" parent="@style/Widget">
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="android:dropDownHorizontalOffset">0.0dip</item>
+        <item name="android:dropDownVerticalOffset">0.0dip</item>
+    </style>
+    <style name="Widget.PopupMenu.Dark" parent="@style/Widget.PopupMenu">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_holo_dark</item>
+    </style>
+    <style name="Widget.PopupMenu.Light" parent="@style/Widget.PopupMenu">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_holo_light</item>
+    </style>
+    <style name="theme_dialog_transparent" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

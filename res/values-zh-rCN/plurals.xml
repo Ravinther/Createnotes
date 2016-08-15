@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notes_reminder_count">
+        <item quantity="other">今天有%d项提醒</item>
+        <item quantity="one">今天有一项提醒</item>
+    </plurals>
+</resources>

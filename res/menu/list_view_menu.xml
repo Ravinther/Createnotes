@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item android:icon="0x7f02005e" android:id="0x7f0e005e" android:title="0x7f08006b" />
+    <item android:icon="0x7f02006e" android:id="0x7f0e00e6" android:title="0x7f080077" />
+    <item android:icon="0x7f020062" android:id="0x7f0e00eb" android:title="0x7f08006f">
+        <menu>
+            <item android:id="0x7f0e00ec" android:title="0x7f08007b" />
+            <item android:id="0x7f0e00ed" android:title="0x7f08007a" />
+            <item android:id="0x7f0e00ee" android:title="0x7f080065" />
+            <item android:id="0x7f0e00ef" android:title="0x7f08007f" />
+            <item android:id="0x7f0e00f0" android:title="0x7f080075" />
+        </menu> />
+    <item android:icon="0x7f02006a" android:id="0x7f0e00e5" android:title="0x7f080074" />
+    <item android:icon="0x7f020055" android:id="0x7f0e00e7" android:title="0x7f080063" />
+    <item android:icon="0x7f020073" android:id="0x7f0e00e8" android:title="0x7f08007d" />
+    <item android:icon="0x7f02005b" android:id="0x7f0e00e9" android:title="0x7f080068" />
+</menu>

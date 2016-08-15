@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notes_reminder_count">
+        <item quantity="other">오늘의 알림 %d개</item>
+        <item quantity="one">오늘의 알림 1개</item>
+    </plurals>
+</resources>

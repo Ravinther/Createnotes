@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.socialnmobile.colornote.view.NotesOptions android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:orientation="0" android:id="0x7f0e00b9" android:layout_width="-1" android:layout_height="50dp">
+        <TextView android:textSize="18sp" android:textColor="?unknown_attr_ref: 1010036" android:ellipsize="4" android:gravity="11" android:id="0x7f0e00ba" android:fadingEdge="1000" android:duplicateParentState="true" android:layout_width="0dp" android:layout_height="-1" android:text="0x7f080107" android:singleLine="true" android:layout_weight="1.0" />
+        <TextView android:textSize="18sp" android:ellipsize="4" android:gravity="11" android:id="0x7f0e00bb" android:fadingEdge="1000" android:duplicateParentState="true" android:layout_width="0dp" android:layout_height="-1" android:text="0x7f080081" android:singleLine="true" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:orientation="0" android:id="0x7f0e00bc" android:layout_width="-1" android:layout_height="5dp" android:layout_alignBottom="0x7f0e00b9">
+        <View android:id="0x7f0e00bd" android:background="#ff888888" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0" />
+        <View android:id="0x7f0e00be" android:background="#ff888888" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0" />
+    </LinearLayout>
+    <View android:id="0x7f0e00a7" android:background="#ff888888" android:layout_width="-1" android:layout_height="2dp" android:layout_below="0x7f0e00bc" />
+    <com.socialnmobile.colornote.view.MyViewPager android:id="0x7f0e0006" android:background="#00101010" android:layout_width="-1" android:layout_height="305dp" android:layout_below="0x7f0e00a7" />
+</com.socialnmobile.colornote.view.NotesOptions>

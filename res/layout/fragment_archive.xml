@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="0x7f0e0017" android:background="#ff000000" android:clickable="true" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:orientation="0" android:padding="1dp" android:layout_width="-1" android:layout_height="-2">
+        <Spinner android:id="0x7f0e0067" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0" />
+        <Spinner android:id="0x7f0e0068" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0" />
+    </LinearLayout>
+    <include layout="0x7f030020" />
+    <include android:id="0x7f0e0069" layout="0x7f030038" />
+</LinearLayout>

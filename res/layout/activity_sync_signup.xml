@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="-1" android:layout_height="-1" android:fillViewport="true">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="0x7f0a0011" android:textStyle="1" android:textColor="#ffffffff" android:gravity="11" android:padding="10dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f08001c" />
+        <TextView android:textColor="#ffffffff" android:gravity="11" android:id="0x7f0e0042" android:padding="10dp" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginTop="10dp" android:layout_marginRight="10dp" android:layout_marginBottom="10dp" android:text="0x7f080118" />
+        <TextView android:textColor="#ffdd0000" android:id="0x7f0e0036" android:background="#33ffffff" android:padding="10dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:layout_marginBottom="5dp" />
+        <Button android:textSize="0x7f0a0011" android:id="0x7f0e0043" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:text="0x7f080105" android:drawableLeft="0x7f020039" android:drawablePadding="2dp" />
+        <Button android:textSize="0x7f0a0011" android:id="0x7f0e0044" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginTop="2dp" android:layout_marginRight="5dp" android:text="0x7f080106" android:drawableLeft="0x7f02003a" android:drawablePadding="2dp" />
+        <View android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notes_reminder_count">
+        <item quantity="other">%d catatan pada hari ini</item>
+        <item quantity="one">1 catatan pada hari ini</item>
+    </plurals>
+</resources>

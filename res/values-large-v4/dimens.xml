@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="calendar_note_size">12.0dip</dimen>
+    <dimen name="gridLineHeight">5.0dip</dimen>
+    <dimen name="gridTitleHeight">32.0dip</dimen>
+    <dimen name="grid_content_text_size">17.0sp</dimen>
+    <dimen name="grid_title_text_size">21.0sp</dimen>
+    <dimen name="gridlist_spacing">5.0dip</dimen>
+    <dimen name="large_grid_content_text_size">19.0sp</dimen>
+    <dimen name="listLineWidth">5.0dip</dimen>
+    <dimen name="note_item_date_text_size">18.0sp</dimen>
+    <dimen name="note_item_date_width">86.0dip</dimen>
+</resources>

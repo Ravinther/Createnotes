@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="0x7f0e0018" android:layout_width="-1" android:layout_height="-1" android:fillViewport="true">
+    <LinearLayout android:orientation="1" android:id="0x7f0e0019" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:orientation="1" android:id="0x7f0e001a" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textStyle="1" android:textColor="#ffffffff" android:gravity="11" android:background="#ff888888" android:paddingLeft="2dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0800b5" />
+            <Button android:textSize="0x7f0a0011" android:id="0x7f0e001b" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="6dp" android:layout_marginRight="7dp" android:text="0x7f080140" />
+        </LinearLayout>
+        <Button android:textSize="0x7f0a0010" android:textStyle="1" android:id="0x7f0e001c" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="6dp" android:layout_marginRight="7dp" android:text="0x7f08003e" />
+        <LinearLayout android:orientation="1" android:id="0x7f0e001d" android:layout_width="-1" android:layout_height="-2" style="0x7f0b000d">
+            <TextView android:id="0x7f0e001e" android:layout_width="-2" android:layout_height="-2" android:text="0x7f080125" style="0x7f0b0010" />
+            <Spinner android:id="0x7f0e001f" android:layout_width="-1" android:layout_height="-2" android:prompt="0x7f080125" />
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:id="0x7f0e0020" android:layout_width="-1" android:layout_height="-2" style="0x7f0b000d">
+            <TextView android:id="0x7f0e0021" android:layout_width="-2" android:layout_height="-2" android:text="0x7f08012f" style="0x7f0b0010" />
+            <Button android:textSize="0x7f0a0011" android:gravity="13" android:id="0x7f0e0022" android:layout_width="-1" android:layout_height="-2" />
+            <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+                <Button android:textSize="0x7f0a0011" android:gravity="13" android:id="0x7f0e0023" android:layout_width="0px" android:layout_height="-2" android:drawableLeft="0x7f0200b7" android:drawablePadding="2dp" android:layout_weight="7.0" />
+                <Button android:textSize="0x7f0a0011" android:gravity="13" android:id="0x7f0e0024" android:layout_width="0px" android:layout_height="-2" android:layout_weight="4.0" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:id="0x7f0e0025" android:layout_width="-1" android:layout_height="-2" style="0x7f0b000d">
+            <TextView android:id="0x7f0e0026" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0800f1" android:drawableRight="0x7f02007b" android:drawablePadding="4dp" style="0x7f0b0010" />
+            <Spinner android:id="0x7f0e0027" android:layout_width="-1" android:layout_height="-2" android:prompt="0x7f0800f1" />
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:id="0x7f0e0028" android:paddingTop="0dp" android:layout_width="-1" android:layout_height="-2" style="0x7f0b000d">
+            <TextView android:id="0x7f0e0029" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0800f2" style="0x7f0b0010" />
+            <Button android:textSize="0x7f0a0011" android:gravity="13" android:id="0x7f0e002a" android:layout_width="-1" android:layout_height="-2" android:drawableLeft="0x7f0200b7" android:drawablePadding="2dp" />
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:id="0x7f0e002b" android:layout_width="-1" android:layout_height="-2" style="0x7f0b000d">
+            <TextView android:id="0x7f0e002c" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0800df" style="0x7f0b0010" />
+            <Button android:textSize="0x7f0a0011" android:gravity="13" android:id="0x7f0e002d" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0800ea" android:drawableLeft="0x7f0200b7" android:drawablePadding="4dp" />
+            <Button android:textSize="0x7f0a0011" android:gravity="13" android:id="0x7f0e002e" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:text="0x7f0800ed" android:drawableLeft="0x7f0200b7" android:drawablePadding="4dp" />
+            <Button android:textSize="0x7f0a0011" android:gravity="13" android:id="0x7f0e002f" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:text="0x7f0800eb" android:drawableLeft="0x7f0200b6" android:drawablePadding="4dp" />
+            <Button android:textSize="0x7f0a0011" android:gravity="13" android:id="0x7f0e0030" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:text="0x7f0800ec" android:drawableLeft="0x7f0200b6" android:drawablePadding="4dp" />
+            <Button android:textSize="0x7f0a0011" android:gravity="13" android:id="0x7f0e0031" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:text="0x7f0800ba" android:drawableLeft="0x7f0200b8" android:drawablePadding="4dp" />
+        </LinearLayout>
+        <View android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+        <LinearLayout android:orientation="0" android:background="0x7f020013" android:paddingLeft="4dp" android:paddingTop="5dp" android:paddingRight="4dp" android:paddingBottom="1dp" android:layout_width="-1" android:layout_height="-2">
+            <Button android:id="0x7f0e0032" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0" style="@*style/Widget.Button" />
+            <Button android:id="0x7f0e0033" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0" style="@*style/Widget.Button" />
+            <Button android:id="0x7f0e0034" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0" style="@*style/Widget.Button" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

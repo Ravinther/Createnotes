@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <include android:id="0x7f0e0000" layout="0x7f030021" />
+    <RelativeLayout android:layout_width="-1" android:layout_height="-1" android:layout_below="0x7f0e0000">
+        <FrameLayout android:id="0x7f0e0001" android:layout_width="-1" android:layout_height="-1" />
+    </RelativeLayout>
+</RelativeLayout>

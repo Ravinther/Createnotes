@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:clickable="true" android:layout_width="-1" android:layout_height="-1">
+    <include layout="0x7f030020" />
+    <RelativeLayout android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0">
+        <ListView android:id="0x7f0e0003" android:padding="0x7f0a0006" android:layout_width="-1" android:layout_height="-1" android:listSelector="0x7f020096" android:drawSelectorOnTop="true" android:divider="0x7f020031" />
+        <TextView android:textSize="20sp" android:gravity="11" android:id="0x7f0e0072" android:layout_width="-1" android:layout_height="-1" android:text="0x7f0800a6" />
+    </RelativeLayout>
+</LinearLayout>

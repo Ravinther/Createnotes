@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_reminder_type">
+        <item>כלום</item>
+        <item>כל היום</item>
+        <item>זמן ההתרעה</item>
+        <item>הצמד לשורת המצב</item>
+    </string-array>
+    <string-array name="cal_reminder_type">
+        <item>תאריך</item>
+        <item>זמן</item>
+    </string-array>
+    <string-array name="first_day_of_week_entries">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שבת</item>
+    </string-array>
+    <string-array name="lunar_calendar_entries">
+        <item>כבויה</item>
+        <item>קוריאה</item>
+        <item>סין</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>אחרון</item>
+    </string-array>
+    <string-array name="reminder_list_string">
+        <item>5 דקות</item>
+        <item>10 דקות</item>
+        <item>15 דקות</item>
+        <item>20 דקות</item>
+        <item>25 דקות</item>
+        <item>30 דקות</item>
+        <item>45 דקות</item>
+        <item>שעה 1</item>
+        <item>שעתיים</item>
+        <item>3 שעות</item>
+        <item>6 שעות</item>
+        <item>12 שעות</item>
+        <item>24 שעות</item>
+    </string-array>
+    <string-array name="default_font_size_entries">
+        <item>זעיר</item>
+        <item>קטן</item>
+        <item>בינוני</item>
+        <item>גדול</item>
+        <item>ענק</item>
+    </string-array>
+    <string-array name="default_list_item_height_entries">
+        <item>נורמלי</item>
+        <item>קטן</item>
+        <item>זעיר</item>
+    </string-array>
+</resources>

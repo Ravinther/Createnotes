@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_reminder_type">
+        <item>Tidak ada</item>
+        <item>Setiap hari</item>
+        <item>Waktu alarm</item>
+        <item>Jepit di status bar</item>
+    </string-array>
+    <string-array name="cal_reminder_type">
+        <item>Tanggal</item>
+        <item>Waktu</item>
+    </string-array>
+    <string-array name="first_day_of_week_entries">
+        <item>Minggu</item>
+        <item>Senin</item>
+        <item>Sabtu</item>
+    </string-array>
+    <string-array name="lunar_calendar_entries">
+        <item>Mati</item>
+        <item>Korea</item>
+        <item>Tiongkok</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>pertama</item>
+        <item>kedua</item>
+        <item>ketiga</item>
+        <item>keempat</item>
+        <item>terakhir</item>
+    </string-array>
+    <string-array name="reminder_list_string">
+        <item>5 menit</item>
+        <item>10 menit</item>
+        <item>15 menit</item>
+        <item>20 menit</item>
+        <item>25 menit</item>
+        <item>30 menit</item>
+        <item>45 menit</item>
+        <item>1 jam</item>
+        <item>2 jam</item>
+        <item>3 jam</item>
+        <item>6 jam</item>
+        <item>12 jam</item>
+        <item>24 jam</item>
+    </string-array>
+    <string-array name="default_font_size_entries">
+        <item>Sangat kecil</item>
+        <item>Kecil</item>
+        <item>Sedang</item>
+        <item>Besar</item>
+        <item>Besar sekali</item>
+    </string-array>
+    <string-array name="default_list_item_height_entries">
+        <item>Normal</item>
+        <item>Kecil</item>
+        <item>Sangat kecil</item>
+    </string-array>
+</resources>

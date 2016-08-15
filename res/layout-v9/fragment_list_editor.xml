@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:id="0x7f0e0017" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:id="0x7f0e006b" android:layout_width="-1" android:layout_height="-1">
+        <include android:id="0x7f0e006c" layout="0x7f03001f" />
+        <include android:id="0x7f0e006d" android:visibility="2" layout="0x7f03001d" />
+        <include android:id="0x7f0e006e" layout="0x7f03001e" />
+        <ListView android:id="0x7f0e006f" android:layout_width="-1" android:layout_height="-1" android:listSelector="0x7f02001b" android:overScrollFooter="0x0" />
+        <com.socialnmobile.colornote.view.DragDropListView android:id="0x7f0e0070" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:listSelector="0x7f02001b" android:overScrollFooter="0x0" />
+        <TextView android:textSize="24sp" android:gravity="11" android:id="0x7f0e005f" android:visibility="2" android:layout_width="-1" android:layout_height="-1" />
+    </LinearLayout>
+    <TextView android:textSize="36sp" android:textColor="#ff000000" android:gravity="11" android:id="0x7f0e0071" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:text="0x7f080024" />
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="menu" name="abstract_menu_for_id">false</item>
+    <item type="menu" name="archive_menu">false</item>
+    <item type="menu" name="mainlist_menu">false</item>
+    <item type="menu" name="tempnote_menu">false</item>
+</resources>

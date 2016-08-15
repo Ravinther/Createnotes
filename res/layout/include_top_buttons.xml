@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.socialnmobile.colornote.view.BlockRequestRelativeLayout android:id="0x7f0e0000" android:layout_width="-1" android:layout_height="0x7f0a0025">
+    <View android:id="0x7f0e0091" android:background="#ffaaaaaa" android:layout_width="-1" android:layout_height="0x7f0a0026" android:layout_alignParentBottom="true" />
+    <LinearLayout android:layout_width="-1" android:layout_height="-1" android:layout_above="0x7f0e0091">
+        <RelativeLayout android:id="0x7f0e0092" android:background="0x7f02001b" android:focusable="true" android:clickable="true" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0">
+            <ImageView android:id="0x7f0e0093" android:layout_width="40dp" android:layout_height="-1" android:layout_marginLeft="8dp" android:layout_marginTop="2dp" android:layout_marginRight="6dp" android:layout_marginBottom="2dp" android:src="0x7f02006f" />
+            <TextView android:textSize="22sp" android:typeface="3" android:textStyle="1" android:textColor="#ff999999" android:gravity="13" android:id="0x7f0e0094" android:visibility="1" android:layout_width="-1" android:layout_height="-1" android:text="0x7f080152" android:layout_toRightOf="0x7f0e0093" />
+            <ImageView android:id="0x7f0e0095" android:layout_width="-2" android:layout_height="-1" android:src="0x7f02008f" android:scaleType="5" android:layout_toRightOf="0x7f0e0093" />
+            <TextView android:textSize="13dp" android:textColor="#ff888888" android:id="0x7f0e0096" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="-10dp" android:layout_marginTop="2dp" android:layout_toRightOf="0x7f0e0095" />
+            <TextView android:textSize="14sp" android:textStyle="1" android:textColor="#ff000000" android:gravity="11" android:id="0x7f0e0097" android:paddingBottom="1dp" android:visibility="2" android:layout_width="20dp" android:layout_height="20dp" android:layout_marginLeft="10dp" android:text="N" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <com.socialnmobile.colornote.view.MyImageButton android:id="0x7f0e0098" android:background="0x7f02001b" android:visibility="2" android:layout_width="0x7f0a001a" android:layout_height="-1" />
+        <com.socialnmobile.colornote.view.MyImageButton android:id="0x7f0e0099" android:background="0x7f02001b" android:visibility="2" android:layout_width="0x7f0a001a" android:layout_height="-1" />
+        <com.socialnmobile.colornote.view.MyImageButton android:id="0x7f0e009a" android:background="0x7f02001b" android:layout_width="0x7f0a001a" android:layout_height="-1" android:src="0x7f020066" />
+    </LinearLayout>
+</com.socialnmobile.colornote.view.BlockRequestRelativeLayout>

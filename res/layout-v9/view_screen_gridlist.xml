@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.socialnmobile.colornote.view.ScreenGridList android:layout_width="-1" android:layout_height="-1" android:hapticFeedbackEnabled="false">
+    <ListView android:id="0x7f0e00c2" android:background="#ffe0e0e0" android:paddingLeft="0x7f0a0006" android:paddingTop="0x7f0a0006" android:paddingRight="0x7f0a0006" android:paddingBottom="0x7f0a0006" android:layoutAnimation="0x7f040002" android:layout_width="-1" android:layout_height="-1" android:listSelector="0x7f020096" android:drawSelectorOnTop="true" android:divider="0x7f020031" android:overScrollFooter="0x0" />
+    <GridView android:id="0x7f0e00c3" android:background="#ffe0e0e0" android:paddingLeft="0x7f0a0006" android:paddingTop="0x7f0a0006" android:paddingBottom="0x7f0a0006" android:visibility="1" android:layoutAnimation="0x7f040001" android:layout_width="-1" android:layout_height="-1" android:listSelector="0x7f020096" android:drawSelectorOnTop="true" android:horizontalSpacing="0x7f0a0006" android:verticalSpacing="0x7f0a0006" android:stretchMode="0" android:columnWidth="100dp" android:numColumns="-1" />
+    <LinearLayout android:layout_gravity="11" android:orientation="1" android:id="0x7f0e00c4" android:background="0x7f02001b" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true">
+        <ImageView android:layout_gravity="11" android:id="0x7f0e00c5" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020038" />
+        <TextView android:textSize="24sp" android:textStyle="1" android:textColor="#ff7a7a7a" android:gravity="11" android:layout_gravity="11" android:id="0x7f0e00c6" android:paddingLeft="10dp" android:paddingRight="10dp" android:layout_width="-2" android:layout_height="-2" android:text="0x7f080062" />
+    </LinearLayout>
+</com.socialnmobile.colornote.view.ScreenGridList>

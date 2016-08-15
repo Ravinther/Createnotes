@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NoTitle.Dark" parent="@android:style/Theme.Holo">
+        <item name="android:windowBackground">@drawable/screen_background_gray</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="popupMenuStyle">@style/Widget.PopupMenu.Dark</item>
+        <item name="dropDownListViewStyle">@style/Widget.Note.ListView.DropDown.Dark</item>
+    </style>
+    <style name="Theme.NoTitle.Light" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@drawable/screen_background_gray</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="popupMenuStyle">@style/Widget.PopupMenu.Light</item>
+        <item name="dropDownListViewStyle">@style/Widget.Note.ListView.DropDown.Light</item>
+    </style>
+    <style name="Theme.Normal" parent="@android:style/Theme.Holo" />
+    <style name="Theme.OptionDialog.Dark" parent="@android:style/Theme.Dialog">
+        <item name="android:textColorPrimary">#ffffffff</item>
+        <item name="android:windowBackground">@drawable/menu_dropdown_panel_holo_dark</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:textColorAlertDialogListItem">#ffffffff</item>
+        <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="listItemTextColorUnderV11">#ffffffff</item>
+    </style>
+    <style name="Theme.OptionDialog.Light" parent="@android:style/Theme.Dialog">
+        <item name="android:textColorPrimary">#ff000000</item>
+        <item name="android:windowBackground">@drawable/menu_dropdown_panel_holo_light</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:textColorAlertDialogListItem">#ff000000</item>
+        <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="listItemTextColorUnderV11">#ff000000</item>
+    </style>
+    <style name="Theme.Trans.NoTitle.Dark" parent="@android:style/Theme.Holo.Panel">
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="Theme.Trans.NoTitle.Light" parent="@android:style/Theme.Holo.Light.Panel">
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

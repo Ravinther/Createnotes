@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:padding="3dp" android:layout_width="-1" android:layout_height="38dp">
+    <RelativeLayout android:background="0x7f020003" android:layout_width="-1" android:layout_height="-1">
+        <Button android:textSize="20sp" android:textColor="#ffffffff" android:gravity="11" android:id="0x7f0e007e" android:background="0x7f02001b" android:layout_width="-1" android:layout_height="-1" android:text="0x7f08008a" />
+    </RelativeLayout>
+</LinearLayout>

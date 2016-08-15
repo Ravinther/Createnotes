@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="0x7f080165">
+        <PreferenceScreen android:title="0x7f0800b2" android:key="pref_online_sync" android:widgetLayout="0x7f030025">
+            <intent android:action="note.socialnmobile.intent.action.SYNC_STATUS" />
+        </PreferenceScreen>
+        <CheckBoxPreference android:title="0x7f0800d4" android:key="pref_sync_on_launch" android:defaultValue="0x7f09000a" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f08013c">
+        <ListPreference android:entries="0x7f06000c" android:title="0x7f0800c1" android:key="pref_default_screen" android:defaultValue="0x7f080156" android:entryValues="0x7f06000d" />
+        <com.socialnmobile.colornote.view.ColorPreference android:title="0x7f0800bf" android:key="pref_default_color" android:widgetLayout="0x7f030024" />
+        <ListPreference android:entries="0x7f060006" android:title="0x7f0800c0" android:key="pref_default_font_size" android:defaultValue="0x7f080151" android:entryValues="0x7f060008" />
+        <ListPreference android:entries="0x7f060007" android:title="0x7f0800c9" android:key="pref_list_item_height" android:defaultValue="0x7f080155" android:entryValues="0x7f06000b" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f08013e">
+        <ListPreference android:entries="0x7f060010" android:title="0x7f0800c2" android:key="pref_default_sort_option" android:defaultValue="0x7f080157" android:entryValues="0x7f060011" />
+        <ListPreference android:entries="0x7f06000e" android:title="0x7f0800d2" android:key="pref_sort_order_in_color" android:defaultValue="0x7f080158" android:entryValues="0x7f06000f" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f08013d">
+        <CheckBoxPreference android:title="0x7f0800d0" android:key="pref_show_item_count_on_widget" android:defaultValue="0x7f090009" />
+        <CheckBoxPreference android:title="0x7f0800cf" android:key="pref_show_all_day_reminder" android:defaultValue="0x7f090008" />
+        <ListPreference android:entries="0x7f060019" android:title="0x7f0800db" android:key="pref_widget_transparency" android:defaultValue="0x7f080159" android:entryValues="0x7f06001a" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f080015">
+        <ListPreference android:entries="0x7f060002" android:title="0x7f0800c6" android:key="pref_first_day_of_week" android:entryValues="0x7f060012" />
+        <ListPreference android:entries="0x7f060003" android:title="0x7f0800d1" android:key="pref_show_lunar_date_str" android:entryValues="0x7f060014" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f0800c4">
+        <PreferenceScreen android:title="0x7f0800d5" android:widgetLayout="0x7f030025">
+            <PreferenceCategory android:title="0x7f0800d5">
+                <CheckBoxPreference android:title="0x7f0800d6" android:key="pref_use_auto_select" android:summary="0x7f0800d7" android:defaultValue="0x7f09000b" />
+                <CheckBoxPreference android:title="0x7f0800c3" android:key="pref_edit_title" android:defaultValue="0x7f090003" />
+                <CheckBoxPreference android:title="0x7f0800d8" android:key="pref_use_colordict_in_editor" android:defaultValue="0x7f09000c" />
+            </PreferenceCategory>
+        </PreferenceScreen>
+        <PreferenceScreen android:title="0x7f0800be" android:widgetLayout="0x7f030025">
+            <CheckBoxPreference android:title="0x7f0800c8" android:key="pref_list_item_drag" android:defaultValue="0x7f090006" />
+            <CheckBoxPreference android:title="0x7f080141" android:key="pref_auto_sort_by_status" android:defaultValue="0x7f090001" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="0x7f0800bb" android:widgetLayout="0x7f030025">
+            <PreferenceCategory android:title="0x7f0800bb">
+                <ListPreference android:entries="0x7f060009" android:title="0x7f0800bc" android:key="pref_autolink_phone_type" android:defaultValue="0x7f080153" android:entryValues="0x7f06000a" />
+            </PreferenceCategory>
+            <PreferenceCategory android:title="0x7f0800dc">
+                <CheckBoxPreference android:title="0x7f0800d9" android:key="pref_use_note_link" android:summary="0x7f0800da" android:defaultValue="0x7f09000d" />
+                <CheckBoxPreference android:title="0x7f0800bd" android:key="pref_autolink_wiki_word" android:dependency="pref_use_note_link" android:defaultValue="0x7f090002" />
+            </PreferenceCategory>
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f0800ca">
+        <PreferenceScreen android:title="0x7f0800ca" android:widgetLayout="0x7f030025">
+            <PreferenceCategory android:title="0x7f0800ca">
+                <ListPreference android:entries="0x7f060015" android:title="0x7f080147" android:key="pref_base_style" android:defaultValue="0x7f080154" android:entryValues="0x7f060016" />
+                <CheckBoxPreference android:title="0x7f0800c7" android:key="pref_gpu_rendering" android:defaultValue="0x7f090005" />
+            </PreferenceCategory>
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f0800ce">
+        <PreferenceScreen android:title="0x7f080060" android:summary="0x7f080061" android:widgetLayout="0x7f030025">
+            <intent android:action="note.socialnmobile.intent.action.CHANGE_MASTER_PASSWORD" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f080010">
+        <PreferenceScreen android:title="0x7f080010" android:key="pref_sdcard_backup" android:widgetLayout="0x7f030025">
+            <intent android:action="note.socialnmobile.intent.action.SDCARD_BACKUP" />
+        </PreferenceScreen>
+        <CheckBoxPreference android:title="0x7f0800c5" android:key="pref_enable_auto_backup" android:defaultValue="0x7f090004" />
+        <CheckBoxPreference android:title="0x7f0800cc" android:key="pref_secured_auto_backup" android:summary="0x7f0800cd" android:dependency="pref_enable_auto_backup" android:defaultValue="0x7f090007" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f080000">
+        <com.socialnmobile.colornote.view.MyIntentPreference android:title="0x7f080136" android:key="pref_faq" android:widgetLayout="0x7f030025" />
+        <PreferenceScreen android:title="0x7f080000" android:widgetLayout="0x7f030025">
+            <com.socialnmobile.colornote.view.MyIntentPreference android:title="0x7f0800de" android:key="pref_privacy" android:widgetLayout="0x7f030025" />
+            <com.socialnmobile.colornote.view.MyIntentPreference android:title="0x7f080053" android:key="pref_facebook" android:widgetLayout="0x7f030025" />
+            <com.socialnmobile.colornote.view.MyIntentPreference android:title="0x7f08016b" android:key="pref_trans" android:summary="0x7f080166" android:widgetLayout="0x7f030025" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>

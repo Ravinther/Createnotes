@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notes_reminder_count">
+        <item quantity="other">Heute %d Notizen</item>
+        <item quantity="one">Heute 1 Notiz</item>
+    </plurals>
+</resources>
